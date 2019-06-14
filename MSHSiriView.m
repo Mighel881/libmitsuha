@@ -1,4 +1,4 @@
-#import "MSHJelloView.h"
+#import "public/MSHSiriView.h"
 
 static CGPoint midPointForPoints(CGPoint p1, CGPoint p2) {
   return CGPointMake((p1.x + p2.x) / 2 , (p1.y + p2.y) / 2);

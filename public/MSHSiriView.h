@@ -1,6 +1,6 @@
 #import <UIKit/UIKit.h>
 #import "MSHView.h"
-#import "MSHView.h"
+#import "MSHJelloLayer.h"
 
 @interface MSHSiriView : MSHView
 
