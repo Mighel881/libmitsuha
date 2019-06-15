@@ -65,7 +65,7 @@ static CGPoint controlPointForPoints(CGPoint p1, CGPoint p2) {
   self.blueWaveColor = blueWaveColor;
   self.redWaveLayer.fillColor = redWaveColor.CGColor;
   self.greenWaveLayer.fillColor = greenWaveColor.CGColor;
-  self.blueWaveColor.fillColor = blueWaveColor.CGColor;
+  self.blueWaveLayer.fillColor = blueWaveColor.CGColor;
 }
 
 -(void)redraw {
